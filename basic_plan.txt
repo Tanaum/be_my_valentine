@@ -1,0 +1,10 @@
+ok so imma use html and css for frontend, flask for backend, and monogodb for database
+
+whats flask/python supposed to do?
+-take users name and store in db
+-count num of times no and yes are pressed
+-change size of yes button
+
+things to figure out:
+-how the skibidi to get info from the html stuff
+-how to store it in monogodb
